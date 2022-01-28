@@ -1,4 +1,4 @@
-<img width="320" alt="hyo-prisma" src="https://user-images.githubusercontent.com/27461460/121029792-dd587e80-c7e3-11eb-8564-851ac5246c10.png">
+<img width="360" alt="hyo-prisma" src="https://user-images.githubusercontent.com/27461460/121029792-dd587e80-c7e3-11eb-8564-851ac5246c10.png">
 
 
 ## 🌐Socials
