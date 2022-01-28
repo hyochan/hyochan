@@ -1,6 +1,4 @@
-![hyochan](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyochan%2Fhit-counter&count_bg=%233D84C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-<img width="440" alt="hyo-prisma" src="https://user-images.githubusercontent.com/27461460/121029792-dd587e80-c7e3-11eb-8564-851ac5246c10.png">
+<img width="320" alt="hyo-prisma" src="https://user-images.githubusercontent.com/27461460/121029792-dd587e80-c7e3-11eb-8564-851ac5246c10.png">
 
 
 ## 🌐Socials
