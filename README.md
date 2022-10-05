@@ -14,14 +14,15 @@
 ![OpenAI](https://img.shields.io/badge/openai-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=%2361DAFB)
 
 # 📊GitHub Stats :
-<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/hyochan?date=" width="600" /></a>
+<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/hyochan?date=001" width="600" /></a>
 
 <!--![](https://github-readme-stats.vercel.app/api?username=hyochan&include_all_commits=true&count_private=true&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyochan&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=radical)
 <br/> -->
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hyochan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=hyochan&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+<img src="https://server.dooboo.io/github-trophies/hyochan?date=001" width="720" />
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
