@@ -22,7 +22,7 @@
 
 ## 🏆GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=hyochan&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-<img src="https://dooboo.io/github-trophies?login=hyochan" width="720" />
+<a href="https://dooboo.io"><img src="https://dooboo.io/api/github-trophies?login=hyochan" width="720" /></a>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
