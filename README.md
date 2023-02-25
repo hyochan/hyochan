@@ -1,4 +1,4 @@
-<img width="360" alt="hyo-prisma" src="https://user-images.githubusercontent.com/27461460/121029792-dd587e80-c7e3-11eb-8564-851ac5246c10.png">
+<!-- <img width="360" alt="hyo-prisma" src="https://user-images.githubusercontent.com/27461460/121029792-dd587e80-c7e3-11eb-8564-851ac5246c10.png"> -->
 
 
 ## 🌐Socials
@@ -14,7 +14,7 @@
 ![OpenAI](https://img.shields.io/badge/openai-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=%2361DAFB)
 
 # 📊GitHub Stats :
-<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/hyochan?date=01" width="600" /></a>
+<a href="https://dooboo.io"><img src="https://dooboo.io/api/github-stats-advanced?login=hyochan" width="600" /></a>
 
 <!--![](https://github-readme-stats.vercel.app/api?username=hyochan&include_all_commits=true&count_private=true&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyochan&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=radical)
