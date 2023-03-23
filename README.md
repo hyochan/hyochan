@@ -25,10 +25,3 @@
   <a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-trophies?login=hyochan" width="720" /></a>
 
 </details>
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-![](https://komarev.com/ghpvc/?username=hyochan&label=Visitors+Count&color=brightgreen)
-  
