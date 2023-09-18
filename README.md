@@ -18,9 +18,10 @@
   
 </details>
 
-<details>
+<details open>
   <summary>📊GitHub Stats</summary>
 
+  ![Hyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyochan&show_icons=true&theme=transparent)
   <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" width="600" /></a>
   <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=hyochan" width="720" /></a>
 
