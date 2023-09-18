@@ -1,8 +1,16 @@
-<details>
+<details open>
   <summary>🌐Socials</summary>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hyo-chan-jang-b88a82192) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCy0YwPrjRbcmb4A110xx4zg) 
   
+</details>
+
+<details open>
+  <summary>📊GitHub Stats</summary>
+
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" width="600" /></a>
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=hyochan" width="720" /></a>
+
 </details>
 
 <details>
@@ -18,11 +26,4 @@
   
 </details>
 
-<details open>
-  <summary>📊GitHub Stats</summary>
-
-  <a href="https://stats.dooboo.io"><img src="https://github-readme-stats.vercel.app/api?username=hyochan&show_icons=true&theme=radical" width="600" /></a>
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" width="600" /></a>
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=hyochan" width="720" /></a>
-
-</details>
+<a href="https://stats.dooboo.io"><img src="https://github-readme-stats.vercel.app/api?username=hyochan&show_icons=true&theme=radical" width="480" /></a>
