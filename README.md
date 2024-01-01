@@ -9,7 +9,7 @@
   <summary>📊GitHub Stats</summary>
 
   <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" width="600" /></a>
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=hyochan" width="720" /></a>
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=hyochan&id=1" width="720" /></a>
 
 </details>
 
