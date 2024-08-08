@@ -7,8 +7,13 @@
 
 <details open>
   <summary>📊GitHub Stats</summary>
-
   <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" width="600" /></a>
+
+</details>
+
+<details>
+  <summary>🏆GitHub Throphies</summary>
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=hyochan" width="600" /></a>
 
 </details>
 
