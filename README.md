@@ -7,13 +7,13 @@
 
 <details open>
   <summary>📊GitHub Stats</summary>
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" width="600" /></a>
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=hyochan" width="600" /></a>
 
 </details>
 
 <details>
   <summary>🏆GitHub Throphies</summary>
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=hyochan" width="600" /></a>
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=hyochan" width="600" /></a>
 
 </details>
 
@@ -30,4 +30,4 @@
   
 </details>
 
-<a href="https://stats.dooboo.io"><img src="https://github-readme-stats.vercel.app/api?username=hyochan&show_icons=true&theme=radical" width="480" /></a>
+<a href="https://stats.hyo.dev"><img src="https://github-readme-stats.vercel.app/api?username=hyochan&show_icons=true&theme=radical" width="480" /></a>
