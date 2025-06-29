@@ -1,7 +1,7 @@
 <details open>
   <summary>🌐Socials</summary>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hyo-chan-jang-b88a82192) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@crossplatformkorea) [![X]](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fhyodotdev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hyo-chan-jang-b88a82192) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@crossplatformkorea) ![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fhyodotdev)
   
 </details>
 
