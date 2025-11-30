@@ -1,7 +1,8 @@
 <details open>
   <summary>🌐Socials</summary>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hyochanjang)
+
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@hyodotdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hyochanjang)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@crossplatformkorea)
 [![X](https://img.shields.io/badge/X-%2311181F.svg?logo=X&logoColor=white)](https://x.com/hyodotdev)
   
