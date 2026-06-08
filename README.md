@@ -10,7 +10,7 @@
 
 <details open>
   <summary>📊GitHub Stats</summary>
-  <a href="https://stats.hyo.dev/en/stats/hyochan"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=hyochan" width="600" /></a>
+  <a href="https://stats.hyo.dev/stats/hyochan"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=hyochan" width="600" /></a>
 
 </details>
 
